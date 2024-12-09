@@ -1,0 +1,11 @@
+openai
+pandas
+numpy
+beautifulsoup4
+requests
+lxml
+langchain
+pinecone-client
+Flask
+python-dotenv
+openai
